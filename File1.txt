@@ -4,5 +4,5 @@ commit test
 456
 789
 Add Line
-n e w   b r a n c h   l i n e  
+n e w   b r a n c h   l i n e new line for GUI
  
